@@ -1,0 +1,120 @@
+@charset "utf-8";
+
+/*header*/
+.btn-orange1 {
+    color: #FFF;
+    background: none repeat scroll 0% 0% #FF9C00;
+    border: medium none;
+    display: inline-block;
+    border-radius: 4px;
+    min-width: 55px;
+    min-height: 20px;
+    line-height: 20px;
+    text-align: center;
+    padding: 4px 12px;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    font-family: "Microsoft YaHei",Tahoma,Verdana,Arial;
+    font-size: 14px;
+}
+.btn-orange1:hover {
+    color: #fff;
+    background: none repeat scroll 0% 0% #ffc000;
+    border: medium none;
+}
+
+
+.btn-orange2 {
+    color: #FFF;
+    background: none repeat scroll 0% 0% #33a9f2;
+    border: medium none;
+    display: inline-block;
+    border-radius: 4px;
+    min-width: 55px;
+    min-height: 20px;
+    line-height: 20px;
+    text-align: center;
+    padding: 4px 12px;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    font-family: "Microsoft YaHei",Tahoma,Verdana,Arial;
+    font-size: 14px;
+}
+.btn-orange2:hover {
+    color: #fff;
+    background: none repeat scroll 0% 0% #6bc2f8;
+    border: medium none;
+}
+
+
+.btn-orange3 {
+    color: #FFF;
+    background: none repeat scroll 0% 0% #ec0000;
+    border: medium none;
+    display: inline-block;
+    border-radius: 4px;
+    min-width: 55px;
+    min-height: 20px;
+    line-height: 20px;
+    text-align: center;
+    padding: 4px 12px;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    font-family: "Microsoft YaHei",Tahoma,Verdana,Arial;
+    font-size: 14px;
+}
+.btn-orange3:hover {
+    color: #fff;
+    background: none repeat scroll 0% 0% #ff4949;
+    border: medium none;
+}
+
+
+.btn-orange4 {
+    color: #FFF;
+    background: none repeat scroll 0% 0% #777777;
+    border: medium none;
+    display: inline-block;
+    border-radius: 4px;
+    min-width: 55px;
+    min-height: 20px;
+    line-height: 20px;
+    text-align: center;
+    padding: 4px 12px;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    font-family: "Microsoft YaHei",Tahoma,Verdana,Arial;
+    font-size: 14px;
+}
+.btn-orange4:hover {
+    color: #fff;
+    background: none repeat scroll 0% 0% #aeaeae;
+    border: medium none;
+}
+
+.btn-orange5 {
+    color: #FFF;
+    background: none repeat scroll 0% 0% #3fcd00;
+    border: medium none;
+    display: inline-block;
+    border-radius: 4px;
+    min-width: 55px;
+    min-height: 20px;
+    line-height: 20px;
+    text-align: center;
+    padding: 4px 12px;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    font-family: "Microsoft YaHei",Tahoma,Verdana,Arial;
+    font-size: 14px;
+}
+.btn-orange5:hover {
+    color: #fff;
+    background: none repeat scroll 0% 0% #86eb03;
+    border: medium none;
+}
